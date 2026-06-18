@@ -1,6 +1,4 @@
-import java.util.Scanner;
-
-public class exercicio4 {
+public class exercicio04 {
     public static void main(String[] args) {
         String [] estados = {"São Paulo",  "Rio", "Curitiba", "Salvador", "Fortaleza"};
         for ( String estado : estados) {
