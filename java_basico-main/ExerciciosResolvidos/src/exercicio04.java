@@ -4,7 +4,7 @@ public class exercicio04 {
         for ( String estado : estados) {
             //O for-each em Java é uma forma simplificada de percorrer arrays ou listas sem precisar usar índice.
             System.out.println(estado.toUpperCase());
-            //
+            // 18/06/2026
         }
 
     }

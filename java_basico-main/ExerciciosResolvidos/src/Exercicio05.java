@@ -11,7 +11,7 @@ public class Exercicio05 {
 
             // Mostra o índice e o valor armazenado naquela posição
             System.out.println("v[" + i + "] = " + indices[i]);
-            //
+            //18/06/2026
         }
     }
 }
