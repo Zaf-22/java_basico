@@ -11,6 +11,8 @@ public class Exercicio03 {
         // 3. Laço 'for' para imprimir os valores do vetor
         for (int i = 0; i < quadrados.length; i++) {
             System.out.println("posicao " + i + " = " + quadrados[i]);
+            //
+
         }
     }
 }
